@@ -1,6 +1,6 @@
 # No Dues Automation Portal
 
-Clone the repository using git clone https://github.com/piyush-jain1/NoDuesPortal
+Clone the repository using git clone https://github.com/shubhanshusv/No-Dues-Portal
 
 This is a quick guide on how to use this system.
 
